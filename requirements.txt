@@ -1,0 +1,11 @@
+pandas
+opencv-python
+numpy
+seaborn
+matplotlib
+scikit-learn
+imbalanced-learn
+mat73
+scikit-image
+natsort
+xgboost
